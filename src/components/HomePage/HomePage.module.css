@@ -1,0 +1,1774 @@
+.ellipse5.ellipse5 {
+  left: 216px;
+  top: 1028px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse6.ellipse6 {
+  left: 509px;
+  top: 1028px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse7.ellipse7 {
+  left: 802px;
+  top: 1028px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse8.ellipse8 {
+  left: 1095px;
+  top: 1028px;
+}
+.menu.menu {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.phucSinh11.phucSinh11 {
+  background-image:/* webpackIgnore: true */ url('/assets/phucSinh112.jpg');
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 6138px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  top: 5812px;
+  width: 1440px;
+  height: 403px;
+  align-items: flex-start;
+}
+.rectangle25 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 19.1067%;
+  background-color: #39b54a;
+}
+.gopMatTrongNhungHoatOngOCacBac {
+  position: absolute;
+  left: 64.5833%;
+  right: 10.8333%;
+  top: 27.5434%;
+  bottom: 31.5136%;
+  text-align: justify;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.truongMamNonHaLong {
+  color: #fff;
+  font-size: 24px;
+  line-height: 46px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 10.2778%;
+  right: 63.125%;
+  top: 12.4069%;
+  bottom: 76.1787%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.IaChiSo342UongMyInhPhuongMyInh {
+  position: absolute;
+  left: 10.2778%;
+  right: 52.7778%;
+  top: 28.7841%;
+  bottom: 55.335%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.chaoMungEnVoiMamNonHaLong {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.5833%;
+  right: 28.0556%;
+  top: 12.4069%;
+  bottom: 82.3821%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle10 {
+  position: absolute;
+  left: 64.5833%;
+  right: 25.6944%;
+  top: 21.8362%;
+  bottom: 77.4194%;
+  border-radius: 3px;
+  background-color: #f9e34c;
+}
+.facebookComMamnonhalong {
+  color: #fff;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.6528%;
+  right: 61.4583%;
+  top: 53.1017%;
+  bottom: 38.9578%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.facebook1 {
+  position: absolute;
+  left: 10.4167%;
+  right: 86.3889%;
+  top: 49.6278%;
+  bottom: 38.9578%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.boxAngKy {
+  position: absolute;
+  left: 0;
+  top: 5012px;
+  width: 1440px;
+  height: 800px;
+  align-items: flex-start;
+}
+.rectangle23 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #f6faf6;
+}
+.AtLichHenKhamTaiPhongKhamOngYP {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.6667%;
+  right: 21.5972%;
+  top: 18.875%;
+  bottom: 77.375%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ANGKYEATLICHKHAMNGAY {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32.9861%;
+  right: 33.125%;
+  top: 6.25%;
+  bottom: 89.375%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle102 {
+  position: absolute;
+  left: 45.0694%;
+  right: 45.2083%;
+  top: 13.5%;
+  bottom: 86.125%;
+  border-radius: 3px;
+  background-color: #f9e34c;
+}
+.rectangle8 {
+  position: absolute;
+  left: 51.0417%;
+  right: 35.0694%;
+  top: 85.125%;
+  bottom: 8.625%;
+  border-radius: 25px;
+  background-color: #39b54a;
+}
+.ANGKY {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55%;
+  right: 39.0972%;
+  top: 86.375%;
+  bottom: 9.875%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image20 {
+  position: absolute;
+  left: 150px;
+  top: 241px;
+  width: 555px;
+  height: 390px;
+  background-image:/* webpackIgnore: true */ url('/assets/image20.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle41 {
+  position: absolute;
+  left: 735px;
+  top: 241px;
+  width: 264px;
+  height: 50px;
+  outline: solid 1px #c4c4c4;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.hoVaTen {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 251px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle412 {
+  position: absolute;
+  left: 735px;
+  top: 321px;
+  width: 557px;
+  height: 50px;
+  outline: solid 1px #c4c4c4;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.tieuE {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 331px;
+  width: 517px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle413 {
+  position: absolute;
+  left: 1028px;
+  top: 241px;
+  width: 264px;
+  height: 50px;
+  outline: solid 1px #c4c4c4;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.soIenThoai {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1048px;
+  top: 251px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle414 {
+  position: absolute;
+  left: 735px;
+  top: 400px;
+  width: 557px;
+  height: 231px;
+  outline: solid 1px #c4c4c4;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.noiDungLienHe {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 410px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tinTuc {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 662px;
+  top: 4306px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle103 {
+  position: absolute;
+  left: 649px;
+  top: 4364px;
+  width: 140px;
+  height: 3px;
+  border-radius: 3px;
+  background-color: #f9e34c;
+}
+.thanhPhanChuDuocTrongBaiThuocT {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4417px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.thaoDuocOngYTangCuongSucEKhang {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4479px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.thanhPhanChuDuocTrongBaiThuocT2 {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4417px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.thaoDuocOngYTangCuongSucEKhang2 {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4479px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.tRAINGHIEMNGAYHOMNAYVOIGIAUUAI {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4577px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.chonTruongMamNonQuocTeHayTruon {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4639px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.tRAINGHIEMNGAYHOMNAYVOIGIAUUAI2 {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4577px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.chonTruongMamNonQuocTeHayTruon2 {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4639px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+._4LoiIchCuaPhuongPhapCaoGioKinh {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4737px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.chonTruongMamNonQuocTeHayTruon3 {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 4799px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+._4LoiIchCuaPhuongPhapCaoGioKinh2 {
+  color: #000;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4737px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.chonTruongMamNonQuocTeHayTruon4 {
+  color: #000;
+  font-size: 15px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 930px;
+  top: 4799px;
+  width: 360px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.rectangle82 {
+  position: absolute;
+  left: 648px;
+  top: 4902px;
+  width: 144px;
+  height: 40px;
+  outline: solid 1px #f0f0f0;
+  outline-offset: -1px;
+  border-radius: 7px;
+  background-color: #fff;
+}
+.fiRsAngleDoubleSmallRight1 {
+  position: absolute;
+  left: 761px;
+  top: 4914px;
+  width: 16px;
+  height: 16px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.xemThem {
+  color: #39b54a;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 668px;
+  top: 4907px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image14 {
+  position: absolute;
+  left: 150px;
+  top: 4417px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image14.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image15 {
+  position: absolute;
+  left: 735px;
+  top: 4417px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image152.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image16 {
+  position: absolute;
+  left: 150px;
+  top: 4577px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image16.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image17 {
+  position: absolute;
+  left: 735px;
+  top: 4577px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image17.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image18 {
+  position: absolute;
+  left: 150px;
+  top: 4737px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image18.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image19 {
+  position: absolute;
+  left: 735px;
+  top: 4737px;
+  width: 175px;
+  height: 125px;
+  background-image:/* webpackIgnore: true */ url('/assets/image19.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle14 {
+  position: absolute;
+  left: 0;
+  top: 3676px;
+  width: 1440px;
+  height: 560px;
+  background-color: #39b54a;
+}
+.imgBg1Min1 {
+  position: absolute;
+  left: 1px;
+  top: 3676px;
+  width: 1440px;
+  height: 560px;
+  background-image:/* webpackIgnore: true */ url('/assets/imgBg1Min1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.like11 {
+  position: absolute;
+  left: 702px;
+  top: 4133px;
+  width: 36px;
+  height: 36px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.like12 {
+  position: absolute;
+  left: 638px;
+  top: 4133px;
+  width: 36px;
+  height: 36px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.like13 {
+  position: absolute;
+  left: 766px;
+  top: 4133px;
+  width: 36px;
+  height: 36px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.ongPhamThanhTungKhachHangTaiOn {
+  position: absolute;
+  left: 403px;
+  top: 4057px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 24px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 46px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label6 {
+  color: #fff;
+  font-size: 24px;
+  line-height: 46px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.quotationMarksInSpeechBubble1 {
+  position: absolute;
+  left: 670px;
+  top: 3726px;
+  width: 100px;
+  height: 100px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.CamOnPhongKhamOngYPhucSinhCung {
+  color: #fff;
+  font-size: 26px;
+  line-height: 46px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 178px;
+  top: 3876px;
+  width: 1084px;
+  height: 141px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.line1 {
+  position: absolute;
+  left: 638px;
+  top: 4036px;
+  width: 166px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+}
+.dichVuTaiPhongKham {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 532px;
+  top: 2560px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle104 {
+  position: absolute;
+  left: 649px;
+  top: 2618px;
+  width: 140px;
+  height: 3px;
+  border-radius: 3px;
+  background-color: #f9e34c;
+}
+.triLieu {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 150px;
+  top: 2770px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.duongSinhOngY {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 150px;
+  top: 3213px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phongKhamOngYPhucSinhChamSocIe {
+  background-image:/* webpackIgnore: true */ url('/assets/phongKhamOngYPhucSinhChamSocIe.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 247px;
+  top: 2661px;
+  width: 946px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle38 {
+  position: absolute;
+  left: 150px;
+  top: 2835px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.rectangle39 {
+  position: absolute;
+  left: 540px;
+  top: 2835px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.rectangle40 {
+  position: absolute;
+  left: 930px;
+  top: 2835px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.image9 {
+  position: absolute;
+  left: 930px;
+  top: 2835px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image9.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image5 {
+  position: absolute;
+  left: 150px;
+  top: 2835px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.AuAuMatNgu {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 238px;
+  top: 3095px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.AuMoiCoVaiGay {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 619px;
+  top: 3095px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.teBiTayChan {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1036px;
+  top: 3095px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image8 {
+  position: absolute;
+  left: 540px;
+  top: 2835px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image8.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.group70 {
+  position: absolute;
+  left: 85px;
+  top: 2969px;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.group71 {
+  position: absolute;
+  left: 1315px;
+  top: 2969px;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle382 {
+  position: absolute;
+  left: 150px;
+  top: 3278px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.rectangle392 {
+  position: absolute;
+  left: 540px;
+  top: 3278px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.rectangle402 {
+  position: absolute;
+  left: 930px;
+  top: 3278px;
+  width: 360px;
+  height: 308px;
+  background-color: #f5f5f5;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+}
+.thuAoThang {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 248px;
+  top: 3538px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cuuNgaiNong {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 642px;
+  top: 3538px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chamSocMatBangNgocThach {
+  color: #39b54a;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 940px;
+  top: 3538px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group702 {
+  position: absolute;
+  left: 85px;
+  top: 3412px;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.group712 {
+  position: absolute;
+  left: 1315px;
+  top: 3412px;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.image11 {
+  position: absolute;
+  left: 541px;
+  top: 3278px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image12 {
+  position: absolute;
+  left: 930px;
+  top: 3278px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image12.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image13 {
+  position: absolute;
+  left: 152px;
+  top: 3278px;
+  width: 360px;
+  height: 240px;
+  background-image:/* webpackIgnore: true */ url('/assets/image13.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  top: 2290px;
+  width: 1440px;
+  height: 200px;
+  background-color: #39b54a;
+}
+.rectangle83 {
+  position: absolute;
+  left: 735px;
+  top: 2390px;
+  width: 180px;
+  height: 49px;
+  border-radius: 7px;
+  background-color: #fff;
+}
+.fiRsAngleDoubleSmallRight12 {
+  position: absolute;
+  left: 879px;
+  top: 2406px;
+  width: 16px;
+  height: 16px;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.lienHeNgay {
+  color: #39b54a;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 2399px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.AngKyNhanTuVan {
+  color: #fff;
+  font-size: 19px;
+  line-height: 27px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2341px;
+  width: 180px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.prescribingDrugsPatient1 {
+  position: absolute;
+  left: 281px;
+  top: 2208px;
+  width: 424px;
+  height: 282px;
+  background-image:/* webpackIgnore: true */ url('/assets/prescribingDrugsPatient1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle9 {
+  position: absolute;
+  left: 0;
+  top: 1511px;
+  width: 1440px;
+  height: 780px;
+  background-color: #e2ffe6;
+}
+.taiSaoBanChonChungToi {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 494px;
+  top: 1561px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle105 {
+  position: absolute;
+  left: 649px;
+  top: 1619px;
+  width: 140px;
+  height: 3px;
+  border-radius: 3px;
+  background-color: #f9e34c;
+}
+.rectangle12 {
+  position: absolute;
+  left: 150px;
+  top: 1692px;
+  width: 359px;
+  height: 202px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.rectangle11 {
+  position: absolute;
+  left: 150px;
+  top: 1692px;
+  width: 360px;
+  height: 439px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.rectangle132 {
+  position: absolute;
+  left: 150px;
+  top: 2106px;
+  width: 360px;
+  height: 24.7542px;
+  border-radius: 0 0 10px 10px;
+  background-color: #fcee21;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.giayPhepHoatOng {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 181px;
+  top: 1852px;
+  width: 297px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.phongKhamOngYPhucSinhUocCapPhe {
+  color: #000000b2;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 170px;
+  top: 1898px;
+  width: 320px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.image1 {
+  position: absolute;
+  left: 290px;
+  top: 1732px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/image1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle112 {
+  position: absolute;
+  left: 540px;
+  top: 1692px;
+  width: 360px;
+  height: 439px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.rectangle133 {
+  position: absolute;
+  left: 540px;
+  top: 2106px;
+  width: 360px;
+  height: 24.7542px;
+  border-radius: 0 0 10px 10px;
+  background-color: #fcee21;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.chungChiHanhNghe {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 558px;
+  top: 1852px;
+  width: 323px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.OiNguBacSiChuyenGiaUocSoYTeTha {
+  color: #000000b2;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 560px;
+  top: 1907px;
+  width: 320px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.image110 {
+  position: absolute;
+  left: 680px;
+  top: 1732px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/image110.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle113 {
+  position: absolute;
+  left: 930px;
+  top: 1692px;
+  width: 360px;
+  height: 439px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.rectangle134 {
+  position: absolute;
+  left: 930px;
+  top: 2107px;
+  width: 360px;
+  height: 24px;
+  border-radius: 0 0 10px 10px;
+  background-color: #fcee21;
+  box-shadow: 0px 10px 20px 0px #0000001a;
+}
+.duocLieuSach {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 950px;
+  top: 1852px;
+  width: 320px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.toanBoDuocLieuSuDungTrongKhamC {
+  color: #000000b2;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 950px;
+  top: 1907px;
+  width: 320px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.image111 {
+  position: absolute;
+  left: 1070px;
+  top: 1732px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/image111.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vePhongKhamOngYPhucSinh {
+  color: #39b54a;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 459px;
+  top: 757px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phongKhamOngYPhucSinhChamSocIe2 {
+  position: absolute;
+  left: 150px;
+  top: 858px;
+  width: 1140px;
+  height: min-content;
+  text-align: justify;
+  flex-direction: column;
+}
+.textBlock6 {
+  background-image:/* webpackIgnore: true */ url('/assets/phongKhamOngYPhucSinhChamSocIe2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/phongKhamOngYPhucSinhChamSocIe3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle4 {
+  position: absolute;
+  left: 650px;
+  top: 815px;
+  width: 140px;
+  height: 3px;
+  border-radius: 3px;
+  background-color: #fcee21;
+}
+.loremIpsumIsSimplyDummyTextOfT {
+  color: #0009;
+  font-size: 17px;
+  line-height: 27px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 150px;
+  top: 1308px;
+  width: 262px;
+  height: 163px;
+  text-align: justify;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT2 {
+  color: #0009;
+  font-size: 17px;
+  line-height: 27px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 736px;
+  top: 1308px;
+  width: 262px;
+  height: 163px;
+  text-align: justify;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT3 {
+  color: #0009;
+  font-size: 17px;
+  line-height: 27px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 443px;
+  top: 1308px;
+  width: 262px;
+  height: 163px;
+  text-align: justify;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT4 {
+  color: #0009;
+  font-size: 17px;
+  line-height: 27px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1029px;
+  top: 1308px;
+  width: 262px;
+  height: 163px;
+  text-align: justify;
+  flex-direction: column;
+}
+.bACSITANTAM {
+  position: absolute;
+  left: 150px;
+  top: 1198px;
+  width: 262px;
+  height: 80px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock8 {
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.vATLYTRILIEU {
+  position: absolute;
+  left: 736px;
+  top: 1198px;
+  width: 262px;
+  height: 80px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock10 {
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.bAITHUOCHAY {
+  position: absolute;
+  left: 443px;
+  top: 1198px;
+  width: 262px;
+  height: 80px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock12 {
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.nGHIENCUUCHUYENSAU {
+  position: absolute;
+  left: 1029px;
+  top: 1198px;
+  width: 262px;
+  height: 80px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock14 {
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #39b54a;
+  font-size: 24px;
+  line-height: 39px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._5967307 {
+  position: absolute;
+  left: 241px;
+  top: 1053px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/_5967307.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._3696315 {
+  position: absolute;
+  left: 827px;
+  top: 1053px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/_3696315.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse1 {
+  position: absolute;
+  left: 75.2083%;
+  right: 13.6111%;
+  top: 16.6667%;
+  bottom: 81.2154%;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+._3974844 {
+  position: absolute;
+  left: 1120px;
+  top: 1053px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/_3974844.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._18394041 {
+  position: absolute;
+  left: 534px;
+  top: 1053px;
+  width: 80px;
+  height: 80px;
+  background-image:/* webpackIgnore: true */ url('/assets/_18394041.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner {
+  position: absolute;
+  left: 0;
+  top: 159px;
+  width: 1440px;
+  height: 548px;
+  background-image:/* webpackIgnore: true */ url('/assets/banner.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

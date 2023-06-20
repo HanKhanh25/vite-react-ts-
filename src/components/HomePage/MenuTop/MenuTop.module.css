@@ -1,0 +1,198 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 129px;
+  align-items: flex-start;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 7.7519%;
+  background-color: #fff;
+  box-shadow: 0px 10px 25px 0px #00000014;
+}
+.tRUONGMAMNONHALONG {
+  color: #d6628a;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Quicksand, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 38.3333%;
+  right: 38.4028%;
+  top: 15.5039%;
+  bottom: 61.2403%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 54.2636%;
+  bottom: 7.7519%;
+  background-color: #d6628a;
+}
+.trangChu {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.4167%;
+  right: 84.5833%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gioiThieu {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 17.5%;
+  right: 77.7083%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fiRsAngleSmallDown1 {
+  position: absolute;
+  left: 22.6389%;
+  right: 76.25%;
+  top: 66.6667%;
+  bottom: 20.9302%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.tuyenSinh {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.5278%;
+  right: 58.0556%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fiRsAngleSmallDown12 {
+  position: absolute;
+  left: 42.2917%;
+  right: 56.5972%;
+  top: 66.6667%;
+  bottom: 20.9302%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.tinTuc {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45.4861%;
+  right: 50.9722%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fiRsAngleSmallDown13 {
+  position: absolute;
+  left: 49.375%;
+  right: 49.5139%;
+  top: 66.6667%;
+  bottom: 20.9302%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.tuyenDung {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 52.5694%;
+  right: 41.5972%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chuongTrinhHoc {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 25.8333%;
+  right: 65.5556%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle3 {
+  position: absolute;
+  left: 78.125%;
+  right: 10.4167%;
+  top: 54.2636%;
+  bottom: 0;
+  background-color: #f9e34c;
+}
+.AngKy {
+  color: #d6628a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81.8056%;
+  right: 14.1667%;
+  top: 65.8915%;
+  bottom: 19.3798%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
